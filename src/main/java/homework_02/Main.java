@@ -7,7 +7,7 @@ public class Main {
         // Домашнее задание: посчитать результат 2 * 2
         int x = 2;
         int y = 2;
-        int result = x / y;
+        int result = x * y;
         System.out.println("Результат - " + result);
     }
 }
